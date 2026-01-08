@@ -167,3 +167,4 @@ checkout_btn.pack(pady=10)
 show_category_items("Stationery")
 
 window.mainloop()
+
